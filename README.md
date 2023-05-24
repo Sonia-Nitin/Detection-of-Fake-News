@@ -95,7 +95,7 @@ Our finally selected and best performing classifier was ```Logistic Regression``
 Below is the Process Flow of the project:
 
 <p align="center">
-  <img width="600" height="750" src="https://github.com/nishitpatel01/Fake_News_Detection/blob/master/images/ProcessFlow.PNG">
+  <img width="600" height="750" src="https://github.com/Sonia-Nitin/Detection-of-Fake-News/blob/master/images/ProcessFlow.PNG">
 </p>
 
 ### Performance
@@ -104,13 +104,13 @@ Below is the learning curves for our candidate models.
 **Logistic Regression Classifier**
 
 <p align="center">
-  <img width="550" height="450" src="https://github.com/nishitpatel01/Fake_News_Detection/blob/master/images/LR_LCurve.PNG">
+  <img width="550" height="450" src="https://github.com/Sonia-Nitin/Detection-of-Fake-News/blob/master/images/LR_LCurve.PNG">
 </p>
 
 **Random Forest Classifier**
 
 <p align="center">
-  <img width="550" height="450" src="https://github.com/nishitpatel01/Fake_News_Detection/blob/master/images/RF_LCurve.png">
+  <img width="550" height="450" src="https://github.com/Sonia-Nitin/Detection-of-Fake-News/blob/master/images/RF_LCurve.png">
 </p>
 
 ### Next steps
@@ -123,7 +123,7 @@ A step by step series of examples that tell you have to get a development env ru
 
 1. The first step would be to clone this repo in a folder in your local machine. To do that you need to run following command in command prompt or in git bash
 ```
-$ git clone https://github.com/nishitpatel01/Fake_News_Detection.git
+$ git clone https://github.com/Sonia-Nitin/Detection-of-Fake-News.git
 ```
 
 2. This will copy all the data source file, program files and model into your machine.
@@ -148,9 +148,9 @@ $ git clone https://github.com/nishitpatel01/Fake_News_Detection.git
     cd C:/your cloned project folder path goes here/
     ```
     - Locate ```python.exe``` in your machine. you can search this in window explorer search bar. 
-    - Once you locate the ```python.exe``` path, you need to write whole path of it and then entire path of project folder with ```prediction.py``` at the end. For example if your ```python.exe``` is located at ```c:/Python36/python.exe``` and project folder is at ```c:/users/user_name/desktop/fake_news_detection/```, then your command to run program will be as below:
+    - Once you locate the ```python.exe``` path, you need to write whole path of it and then entire path of project folder with ```prediction.py``` at the end. For example if your ```python.exe``` is located at ```c:/Python36/python.exe``` and project folder is at ```c:/users/user_name/desktop/Detection-of-Fake-News/```, then your command to run program will be as below:
     ```
-    c:/Python36/python.exe C:/users/user_name/desktop/fake_news_detection/prediction.py
+    c:/Python36/python.exe C:/users/user_name/desktop/Detection-of-Fake-News/prediction.py
     ```
     - After hitting the enter, program will ask for an input which will be a piece of information or a news headline that you 	    	   want to verify. Once you paste or type news headline, then press enter.
 
